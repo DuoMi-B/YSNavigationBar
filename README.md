@@ -1,2 +1,2 @@
 # YSNavigationBar
-经久耐用，接入简便，将YSNavigationBar放在项目基类UIViewController，全局控制继承即可
+经久耐用，接入简便
